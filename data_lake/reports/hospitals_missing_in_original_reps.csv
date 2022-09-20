@@ -1,0 +1,236 @@
+,index,secuencia,hospital,direccion,TipoInst,telefono,gerente,coordaph,telcoordaph,coordurg,telcoordurg,red,nivel,telgerente,entidad,nit,cod_verificacion,Region,ciudad,bool
+32,32,34,CLINICA CANDELARIA,KR 29 63 A - 11 SUR,Privada,7179131,EDUARDO ADOLFO COLMENARES PEDREROS,,,,,,2,,CLINICA CANDELARIA,830016163,3,Bogota,Bogota,False
+33,33,35,NATIONAL CLINICS CENTENARIO SAS,CL 13 17-21,Privada,2347270,,,,,,,3,,,0,0,Bogota,Bogota,False
+42,42,44,CLINICA FRAY BARTOLOME,TV 44 B 102 A - 91,Privada,5333877,,,,,,,3,,CLINICA FRAY BARTOLO,800196433,9,Bogota,Bogota,False
+43,43,45,CLINICA FUNDADORES,KR 39 25 - 15,Privada,3350966,CLAUDIA CONSTANZA CASTILLO MELO,,,,,,2,,CLINICA FUNDADORES,860066191,2,Bogota,Bogota,False
+52,52,56,CLINICA NICOLAS DE FEDERMAN,CL 58 A 37 - 10,Privada,2213400,CLAUDIA CONSTANZA CASTILLO MELO,,,,,,3,,CLINICA NICOLAS DE F,860066191,2,Bogota,Bogota,False
+56,56,60,CLINICA ORQUIDEAS,CL 163A 15-77,Privada,7460617,,,,,,,3,,,860007336,1,Bogota,Bogota,False
+60,60,64,CLINICA POLICARPA,KR 10 1 - 07 SUR,Privada,5960240,,,,,,,2,,CLINICA POLICARPA CO,830106376,1,Bogota,Bogota,False
+72,72,76,CLINICA VASCULAR NAVARRA,AK 45 106 - 30,Privada,5231010,JORGE ALVARO MURCIA GOMEZ,,,,,,3,,CLINICA VASCULAR NAV,800247537,1,Bogota,Bogota,False
+73,73,77,CLINICA VERAGUAS,CL 5 30 -34,Privada,5967540,,,,,,,2,,CLINICA VERAGUAS - C,830106376,1,Bogota,Bogota,False
+74,74,78,CLINICA VIDELMEDICA,KR 45 A 94 71,Privada,6915870,,,,,,Red Occidente,3,6362615,CLINICA VIDELM??ÃƒÆ’,0,0,Bogota,Bogota,False
+75,75,79,COMPENSAR KENNEDY,TV 78 H 41 C - 48 SUR,Privada,4039393,NESTOR RICARDO RODRIGUEZ ARDILA,,,,,,1,,COMPENSAR KENNEDY,860066942,1,Bogota,Bogota,False
+78,78,82,HOSPITAL CARDIO VASCULAR DE SOACHA,KR 1 E 31-58 Soacha,Privada,7262000,,,,,,,3,,HOSPITAL CARDIOVASCU,0,0,Cundinamarca,Soacha,False
+85,85,90,HOSPITAL MARIO GAITAN YANGUAS,CL 13 10-48,Pública,7815728,,,,,,,2,7219915,,0,0,Cundinamarca,Soacha,False
+104,104,110,SALUD SURA CL 100,AC 100 19A 35,Privada,4378888,,,,,,,1,,,811007832,5,Bogota,Bogota,False
+105,105,111,SAMU CRUZ ROJA ALQUERIA,,Privada,,,,,,,Red Sur,2,,Samu Alqueria,860070301,1,Bogota,Bogota,False
+106,106,112,SAMU CRUZ ROJA AUTONORTE,AUTOPISTA NORTE CON 145,Privada,,,,,,,Red Norte,1,,SAMU 145,860070301,1,Bogota,Bogota,False
+108,108,114,UBA BUENAVISTA,KR 5 B 192 A 35,Pública,,,,,,,,1,,HOSPITAL USAQUEN,800216473,0,Bogota,Bogota,False
+109,109,115,UBA CANDELARIA,KR 3 15 33,Pública,,,,,,,,1,,HOSPITAL CENTRO ORIE,830077644,1,Bogota,Bogota,False
+110,110,116,UBA CENTRO SANIDAD AEREA,AEROPUERTO EL DORADO,Pública,,,,,,,,1,,HOSPITAL FONTIBON,830077650,1,Bogota,Bogota,False
+111,111,117,UBA DINDALITO,CL 42 A 90 00 SUR,Pública,,,,,,,,1,,HOSPITAL DEL SUR,830077444,9,Bogota,Bogota,False
+112,112,118,UBA EL JARDIN,KR 80 P 83 14 SUR,Pública,,,,,,,,1,,HOSPITAL PABLO VI BO,800219600,3,Bogota,Bogota,False
+113,113,119,UBA EL TOCHE,DG 91 SUR 87 03,Pública,,,,,,,,1,,HOSPITAL PABLO VI BO,800219600,3,Bogota,Bogota,False
+115,115,121,UBA LA UNION,VEREDA LA UNION,Pública,,,,,,,,1,,HOSPITAL DE USME,830010966,3,Bogota,Bogota,False
+116,116,122,UBA MEXICANA,CL 40 KR 89 C SUR,Pública,,,,,,,,1,,HOSPITAL DEL SUR,830077444,9,Bogota,Bogota,False
+117,117,123,UBA PARAISO,KR 27 71 H 46 SUR,Pública,,,,,,,,1,,HOSPITAL VISTA HERMO,800248276,3,Bogota,Bogota,False
+205,205,211,VIRREY SOLIS CASTELLANA,CALLE 98  No. 23,Privada,,,,,,,Red Sur,1,,VIRREY SOLIS CASTELL,800003765,1,Bogota,Bogota,False
+207,207,213,CLINICA MONSERRAT,,Privada,,,,,,, ,3,,,,0,Bogota,Bogota,False
+210,210,216,SANITAS UNIDAD URGENCIAS CARRERA 62,,Privada,,,,,,,Red Norte,1,,,,0,Bogota,Bogota,False
+213,213,220,HOSPITAL DE MAPIRIPAN DEL META,Meta,Pública,,,,,,,,0,,,,0,Meta,Mapiripan,False
+214,214,221,HOSPITAL UNIVERSITARIO DE VILLAVICENCIO,Villavicencio,Pública,,,,,,,,0,,,,0,Meta,Villavicencio,False
+217,217,224,CLINICA MIOCARDIO,CR 45 A NÁ€šÃ‚Â° 94 71 - Barrio:LA CASTELLANA,Privada,2095042,MIOCARDIOSAS@GMAIL.COM,,,,,Red Norte,3,,,1100120840,0,Bogota,Bogota,False
+218,218,226,SDS - CRUE,CARRERA 32 12-81,Pública,3649090,,,,,,,1,3649090,SDS - CRUE,,0,Bogota,Bogota,False
+221,221,229,CENTRO CARDIOVASCULAR COLOMBIANO,,Privada,,,,,,,Red Norte,2,,,,0,Bogota,Bogota,False
+226,226,234,HOSPITAL TRANSITORIO CORFERIAS,,Pública,,,,,,,Red Oriente,3,,,,0,Bogota,Bogota,False
+229,229,237,CLINICA GARPER MEDICA,,Privada,,,,,,,,0,,,,0,Bogota,Bogota,False
+235,235,243,IPS REMY,,Privada,,,,,,,,0,,,,0,Bogota,Bogota,False
+236,236,244,HEALTH & LIFE IPS MONTEVIDEO,,Privada,,,,,,,,0,,,,0,Bogota,Bogota,False
+237,237,245,CLINICA COLSATINAS 103,,Privada,,,,,,,,0,,,,0,Bogota,Bogota,False
+240,240,249,CLINICA MEINTEGRAL CENTRO DE ALTA COMPLEJIDAD,,Pública,,,,,,, ,3,,,,0,Cundinamarca,Zipaquira,False
+244,244,253,HOSPITAL CARDIOVASCULAR DEL NINO DE CUNDINAMARCA,,Privada,,,,,,, ,3,,,,0,Cundinamarca,Soacha,False
+248,248,257,HOSPITAL REGIONAL DE ZIPAQUIRA,,Pública,,,,,,,,0,,,,0,Cundinamarca,Zipaquira,False
+251,251,262,VIRREY SOLIS SOACHA,,Privada,,,,,,,,0,,,,0,Cundinamarca,Soacha,False
+262,262,274,HEALTH & LIFE IPS JVARGAS,,Privada,,,,,,,,0,,,,0,Bogota,Bogota,False
+264,264,276,HOSPITAL PEDRO LEON ALVAREZ DIAZ DE LA MESA,,Pública,,,,,,,,0,,,,0,Cundinamarca,La mesa,False
+266,266,278,ESE MERCEDES TELLEZ DE PADILLA HOSPITAL VIANI,,Pública,,,,,,,Red Sur,2,,,,0,Cundinamarca,Viani,False
+271,271,283,CLINICA MEDIFACA,,Privada,,,,,,,,0,,,,0,Cundinamarca,Facatativa,False
+272,272,284,CODE NORTE,,Pública,,,,,,, ,0,,,,0,Bogota,Bogota,False
+275,275,287,HOSPITAL DE FUNZA,,Pública,,,,,,,,0,,,,0,Cundinamarca,Funza,False
+276,276,289,SOCIEDAD CLINICA EMCOSALUD,,Privada,,,,,,, ,0,,,,0,Huila,Neiva,False
+280,280,294,INVERSIONES LUCEDMARB S.A,AUTOPISTA SUR CRA 4 N 19 52,Privada, 8400347,,,,,, ,0,,,,0,Cundinamarca,Sibate,False
+281,281,295,HOSPITAL REGIONAL DE MONIQUIRA ESE,"Calle 4a 9 101, Ricaurte, Moniquirá, Boyacá",Pública,7282630,LUIS CARLOS OLARTE CONTRERAS,,,,, ,2,7282630,,,0,Boyaca,Moniquira,False
+282,282,296,CLINICA COLSUBSIDIO DE GIRARDOT,,Privada,7420100 ext 79822  3202548942,,,,,, ,0,,,,0,Cundinamarca,Girardot,False
+285,285,299,HOSPITAL ISMAEL SILVA DE SILVANIA ESE,,Pública,8685266,,,,,, ,0,,,,0,Cundinamarca,Silvania,False
+286,286,300,CLINICA PUTUMAYO SAS ZOMAC,, ,,,,,,, ,0,,,,0,Putumayo,Puerto Asis,False
+287,287,301,CLINICA COLSUBSIDIO CALLE 127,,Privada,,,,,,, ,0,,,,0,Bogota,Bogota,False
+290,290,304,MEDICINA INTESIVA DEL TOLIMA,,Privada,,,,,,, ,0,,,,0,Tolima,Honda,False
+291,291,305,CLINICA CHIA,,Pública,,,,,,, ,0,,,,0,Cundinamarca,Chia,False
+293,293,307,HOSPITAL DEPARTAMENTAL DE VILLAVICENCIO E.S.E,Calle 37a No. 28-53,Pública,3203498937,,,,,, ,0,,,,0,Meta,Villavicencio,False
+296,296,310,SERVIMEDICOS VILLAVICENCIO,,,,,,,,,,0,,,,0,Meta,Villavicencio,False
+299,299,314,RED HUMANA,,Privada,,,,,,, ,0,,,,0,Bogota,Bogota,False
+300,300,315,HOSPITAL MANUEL ELKIN PATARROYO,CRA 9 # 16-14 BARRIO LOS COMUNEROS,Privada,3112372586,,,,,, ,0,,,,0,Guainia,Inirida,False
+304,304,319,SOCIEDAD CLINICA BOYACA LTDA,TRANSVERSAL 29 No.9C - 41,Privada,7604757,,,,,, ,0,,,,0,Boyaca,Duitama,False
+307,307,833,E.S.E HOSPITAL REGIONAL DE DUITAMA,Av de las Américas # 35,Pública,7632323,,,,,, ,0,,,,0,Boyaca,Duitama,False
+309,309,835,CLINICA MEDILASER DE TUNJA,,Privada,,,,,,, ,0,,,,0,Boyaca,Tunja,False
+312,312,838,CLINICA EL LAGUITO,,Privada,,,,,,, ,0,,,,0,Boyaca,Sogamoso,False
+313,313,839,CLINICA BELEN DE FUSAGASUGA,,Privada,,,,,,, ,0,,,,0,Cundinamarca,Fusagasuga,False
+316,316,842,HOSPITAL LA MESA,,Pública,,,,,,, ,0,,,,0,Cundinamarca,La mesa,False
+317,317,843,FUNDACION CLINICA LETICIA,Avenida Internacional Carrera 6. 6-05,Privada,6925576,,,,,, ,0,,,,0,Amazonas,Leticia,False
+319,319,845,HOSPITAL REGIONAL DE SOGAMOSO,CALLE 8 No. 11A -43 SOGAMOSO,Pública,7 70 2201,,,,,, ,0,,,,0,Boyaca,Sogamoso,False
+322,322,848,CLINICA AVIDANTI DE IBAGUE,,Privada,,,,,,, ,0,,,,0,Tolima,Ibague,False
+326,326,852,ESE HOSPITAL PEDRO LEON ALVAREZ DIAZ DE LA MESA,,Pública,,,,,,, ,1,,,,0,Cundinamarca,La mesa,False
+327,327,853,CLINICA LOS ROSALES S.A,"Carrera 9 # 25 - 25, Pereira, Risaralda",Privada,3357454,,,,,, ,0,,,,0,Risaralda,Pereira,False
+331,331,857,HOSPITAL UNIVERSITARIO ERASMO MEOZ E.S.E,AV. 11E #5AN-71 B. Guaimaral Cúcuta-Norte de Santander,Pública,5746888,,,,,, ,0,,,,0,Norte de santander,Cucuta,False
+332,332,858,"DEPARTAMENTAL DEL META ""SOLUCION SALUD"" E.S.E",CALLE 37 NO 41-80,Pública,6610200,,,,,, ,0,,,,0,Meta,Villavicencio,False
+334,334,860,ESE HOSPITAL REGIONAL DE ORINOQUIA,Calle 15 # 07 -95 Vía Marginal de la Selva,Pública,(038) 6344650,,,,,, ,0,,,,0,Casanare,Orinoquia,False
+340,340,867,HOSPITAL CESAR URIBE PIEDRAHITA E.S.E, CARRERA 7 # 48-03,Pública,8333434,,,,,, ,0,,,,0,Antioquia,Caucasia,False
+341,341,868,ESE HOSPITAL MARIA AUXILIADORA DE MOSQUERA,CALLE 02 # 3 -14 MOSQUERA,Pública,8932394,,,,,, ,1,,,,0,Cundinamarca,Mosquera,False
+342,342,869,ESE HOSPITAL DEPERTAMENTAL DE GRANADA,CALLE 15 CRA 02 Y 04,Pública,6500517,,,,,, ,0,,,,0,Meta,Granada,False
+344,344,871,ESE HOSPITAL DIVINO SALVADOR DE SOPO,CALLE 3 # 4 - 89 SOPO,Pública,8571313,,,,,, ,0,,,,0,Cundinamarca,Sopo,False
+345,345,872,ESE HOSPITAL DEPARTAMENTAL DE VILLAVICENCIO,CALLE 37A #$ 28-53 BARRIO BARZAL ALTO,Pública,,,,,,, ,0,,,,0,Meta,Villavicencio,False
+348,348,875,MEDICADIZ SAS,"Carrera 12 sur No. 93-21, Ibagué, Tolima",Privada,2771186,,,,,, ,0,,,,0,Tolima,Ibague,False
+349,349,876,CLINICA META,CALLE 33 # 36-50 BARZAL BAJO,Privada,(8) 6614400,,,,,, ,0,,,,0,Meta,Villavicencio,False
+350,350,877,HOSPITAL CLARENCE LYND NEWBALL MEMORIAL,"Cl. 21 #41 19, San Andrés y Providencia",Pública,3107685270 San Luis 3172769507 Loma 3177692126,,,,,, ,0,,,,0,San Andrés y Providencia,San Andres,False
+351,351,880,E.S.E HOSPITAL EMIRO QUINTERO CAÑIZARES,CLL 7 N 29 144,Pública,5611435,,,,,, ,0,,,,0,Norte de santander,OcaÃ±a,False
+354,354,883,HOSPITAL DEL SARARE E.S.E,Cl. 30 # 23-108,Pública,3176431580-8892821,,,,,, ,0,,,,0,Arauca,Saravena,False
+361,361,893,CLINICA MEDICAL DUARTE,"Av Libertadores # 0 - 71, Cúcuta Norte de Santander",Privada,5955859,,,,,, ,0,,,,0,Norte de santander,Cucuta,False
+364,364,896,CLINICA NORTE S.A,, ,,,,,,, ,0,,,,0,Norte de santander,Cucuta,False
+365,365,897,CLINICA NUESTRA HOSPITALARIA,, ,,,,,,, ,0,,,,0,Valle del Cauca,Cali,False
+366,366,898,CLINICA MEDILASER S.A,CARRERA 7 # 11 - 65 ,Privada,8724100,,,,,, ,0,,,,0,Huila,Neiva,False
+367,367,899,HOSPITAL PROFESOR JORGE CAVALIER,, ,,,,,,, ,0,,,,0,Cundinamarca,Cajica,False
+369,369,901,HOSPITAL UNIVERSITARIO DE SANTANDER,, ,,,,,,, ,0,,,,0,Santander,Bucaramanga,False
+371,371,903,CLINICA CASANARE,, ,,,,,,, ,0,,,,0,Casanare,Yopal,False
+374,374,906,ESE HOSPITAL DE LA VEGA,, ,,,,,,, ,0,,,,0,Cundinamarca,La vega,False
+377,377,909,HOSPITAL REGIONAL ALFONSO JARAMILLO SALAZAR LIBANO,, ,,,,,,, ,0,,,,0,Tolima,Libano,False
+380,380,912,CLINICA MEDICENTER,, ,,,,,,, ,0,,,,0,Casanare,Yopal,False
+381,381,913,GYOMEDICAL YOPAL,, ,,,,,,, ,0,,,,0,Casanare,Yopal,False
+384,384,916,CLINICA DE CHICAMOCHA,, ,,,,,,, ,0,,,,0,Santander,Bucaramanga,False
+386,386,918,FUNDACION VALLE DE LILI CALI,, ,,,,,,, ,0,,,,0,Valle del Cauca,Cali,False
+387,387,919,CLINICA NUESTRA IBAGUE,, ,,,,,,, ,0,,,,0,Tolima,Ibague,False
+393,393,925,CLINICA EL ROSARIO,, ,,,,,,, ,0,,,,0,Antioquia,Medellin,False
+394,394,926,CLINICA COMFAMILIAR RISARALDA,, ,,,,,,, ,0,,,,0,Risaralda,Pereira,False
+395,395,927,CLINICA LAS VEGAS,, ,,,,,,, ,0,,,,0,Antioquia,Medellin,False
+397,397,929,CLINICA MEDILASER S.A. FLORENCIA,, ,,,,,,, ,0,,,,0,Caqueta,Florencia,False
+401,401,933,HOSPITAL REGIONAL DE SAN GIL E.S.E,, ,,,,,,, ,0,,,,0,Santander,San Gil,False
+403,403,935,DUMIAN MEDICAL,, ,,,,,,, ,0,,,,0,Valle del Cauca,Cali,False
+405,405,937,HOSPITAL GENERAL DE MEDELLIN LUZ CASTRO DE GUTIERREZ,, ,,,,,,, ,0,,,,0,Antioquia,Medellin,False
+408,408,940,HOSPITAL CARI ALTA COMPLEJIDAD,,Privada,,,,,,, ,3,,,,0,Atlántico,Barranquilla,False
+409,409,941,IPS MIRED BARRANQUILLA,,Privada,,,,,,, ,3,,,,0,Atlántico,Barranquilla,False
+410,410,942,CLINICA CMI INTERNACIONAL,,Privada,,,,,,, ,2,,,,0,Atlántico,Barranquilla,False
+411,411,943,IPS OINSAMED,,Privada,,,,,,, ,3,,,,0,Atlántico,Barranquilla,False
+412,412,944,IPS MISERICORIDIA DE BARRANQUILLA,,Privada,,,,,,, ,3,,,,0,Atlántico,Barranquilla,False
+413,413,945,CODE NORTE IPS,,Privada,,,,,,,Red Norte,3,,,,0,Bogota,Bogota,False
+414,414,946,HOSPITAL CARI DE BARRANQUILA,,Privada,,,,,,, ,3,,,,0,Atlántico,Barranquilla,False
+416,416,949,CLINICA BONNADONA PREVENIR,,Privada,,,,,,, ,0,,,,0,Atlántico,Barranquilla,False
+418,418,952,CLINICA UROS,,Privada,,,,,,,,0,,,,0,Huila,Neiva,False
+419,419,953,IPS IOSAMED,,,,,,,,,,0,,,,0,Atlántico,Barranquilla,False
+422,422,956,CLINICA FOSCAL INTERNACIONAL,"Cl. 157 #23-99, Floridablanca, Santander",Privada,6797979,,,,,, ,0,,,,0,Santander,Floridablanca,False
+423,423,957,SERMEDIC IPS SA,,Privada,,,,,,, ,0,,,,0,San AndrésyProvidencia,San Andres,False
+424,424,958,ESE HOSPITAL UNIVERSITARIO DEL CARIBE CARTAGENA,,Pública,,,,,,, ,0,,,,0,Bolivar,Cartagena,False
+427,427,963,VIRREY SOLIS UBBC GRANADA,,,,,,,,,,0,,,,0,Cundinamarca,Girardot,False
+431,431,967,BIENAVENTURANZA IPS,AV. CALLE 53 # 71a -13,Privada,7432442,,,,,, ,0,,,,0,Bogota,Bogota,False
+433,433,969,ESE HOSPITAL UNIVERSITARIO HERNANDO MONCALEANO PERDOMO,CALLE 09 # 15-25,Pública,(8) 8715907,,,,,, ,0,,,,0,Huila,Neiva,False
+434,434,970,HOSPITAL REGIONAL DEL MAGDALENA MEDIO,,,,,,,,,,0,,,,0,Santander,Barrancabermeja,False
+437,437,973,CLINICA JULIO SANDOVAL MEDINA,,Privada,,,,,,, ,4,,-,,0,Boyaca,Sogamoso,False
+438,438,975,ESE HOSPITAL MARCO FELIPE AFANADOR DE TOCAIMA,,,,,,,,,,0,,,,0,Cundinamarca,Tocaima,False
+440,440,977,ESE HOSPITAL UNIVERSITARIO DEPARTAMENTAL DE NARIÑO,Calle 22 # 7 - 93 Parque Bolvar,Pública,7333400,,,,,, ,0,,-,,0,Nariño,Pasto,False
+445,445,985,"HOSPITAL DEPARTAMENTAL DE SAN ANDRES, PROVIDENCIA Y SANTA CATALINA",Bahia Hooker Via San Luis,Pública,3107685270,,,,,, ,0,,-,,0,San Andrés y Providencia,San Andres,False
+446,446,986,SOCIEDAD DE ESPECIALISTA DE GIRARDOT,,Privada,,,,,,, ,0,,-,,0,Cundinamarca,Girardot,False
+450,450,991,CLINICA NORTE,CRA 19 # 19 - 39 ,Privada,5828222,,,,,, ,0,,-,,0,Norte de santander,Cucuta,False
+451,451,992,GRUPO EMPRESARIAL VENUS SAS UT CLINICA JULIO SANDOVAL MEDINA,CR 10 No 11 - 72,Privada,3173675373,,,,,, ,0,,-,,0,Boyaca,Sogamoso,False
+454,454,995,E.S.E HOSPITAL NIÑO JESUS DE BARRANQUILLA,Carrera 75 No. 79B-50,Pública,3177030,,,,,, ,0,,-,,0,Atlántico,Barranquilla,False
+458,458,999,E.S.E HOSPITAL JOSE CAYETANO VASQUEZ,"Ak. 5, Puerto Boyacá, Boyacá",Pública,7386124,,,,,, ,0,,-,,0,Boyaca,Duitama,False
+459,459,1000,CLINICA MEDILASER S.A. NEIVA,CRA 7 # 11-65,Privada,8724100 EXT 1160,,,,,, ,0,,-,,0,Huila,Neiva,False
+466,466,1007,ESE HOSPITAL MANUEL URIBE ANGEL,Cra 41 # 38S # 57,Pública,3394800,,,,,, ,0,,-,,0,Antioquia,Envigado,False
+467,467,1008,CLINICA CONQUISTADORES,Cra 65 # 34A - 16,Privada,6052252,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+468,468,1009,CLINICA DE LA POLICIA,Cra 43A # 48C Sur - 45,Privada,3396739,,,,,, ,0,,-,,0,Antioquia,Envigado,False
+469,469,1010,CLINICA DE LA POLICIA ESPCO CLINICA DEANT,"Carrera 43A, Cl. 48c Sur #45",Privada,(4) 3396739,,,,,, ,0,,-,,0,Antioquia,Envigado,False
+476,476,1017,ESE METROSALUD,CLL 72 A # 48A-20,Pública,2110260,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+478,478,1019,HOSPITAL PABLO TOBON URIBE,CL 78B # 69-240,Privada,445900,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+479,479,1020,CLINICA AVIDANTI SANTA MARTA,CRA 4A #26A-71 ,Privada,4366144,,,,,, ,0,,-,,0,Magnadela,Santa Marta,False
+481,481,1022,CLINICA JALLER BARRANQUILLA,CL 61 ESQUINA CRA 53 ,Privada,3687676,,,,,, ,0,,-,,0,Magnadela,Barranquilla,False
+482,482,1023,CLINICA ESPECIALIZADA EMMSA,BELLO ANTIOQUIA,Privada,4488980,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+485,485,1026,INCODOL MEDELLIN,AV 33 #74E 156,Privada,4488919,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+487,487,1028,CIS COMFAMA MEDELLIN,CL 47#80-05, ,3607080,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+488,488,1029,ESPCO CLINICA PONAL ENVIGADO,CRA 43A #48C SUR 45 ,Privada,3396739,,,,,, ,0,,-,,0,Antioquia,Envigado,False
+491,491,1032,CIS CONFAMA - SAN ANTONIO DEL PRADO,Calle 54 # 52 - 15 Itagüi,Privada,(4) 3741174,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+493,493,1034,CLINICA LEON XIII,Calle 69 # 51C - 24,Privada,018000123838,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+495,495,1036,CLINICA MEDELLIN,Cra 65 # 30 - 95,Privada,4446152,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+496,496,1038,E.S.E. HOSPITAL MARCO FIDEL SUAREZ DE BELLO,Cl. 44 #49B-90,Pública,(4) 4549000,,,,,, ,3,,-,,0,Antioquia,Bello,False
+499,499,1041,CLINICA DEL CARIBE S.A.,Calle 80 No. 49C - 65,Privada,000,,,,,, ,0,,-,,0,Atlántico,Barranquilla,False
+500,500,1042,CLINICA CES,Calle 58 N° 50C-2 Prado Centro,Pública,(4) 3229303,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+502,502,1044,SERVIUCIS SAS,Clle 56 # 48 - 80,Privada,,,,,,, ,0,,-,,0,Antioquia,Rionegro,False
+504,504,1046,HOSPITAL UNIVERSITARIO SAN VICENTE FUNDACION,Clle 64 # 51a - 154 Medellín - Antioquía,Pública,(4) 4441333,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+508,508,1050,E.S.E HOSPITAL REGIONAL DE VELEZ,CALLE 11 No. 5-114,Pública,7564213,,,,,, ,3,,-,,0,Santander,Velez,False
+512,512,1054,CLINICA VIDA MEDELLIN,Avenida 33 # 63A -18,Privada,4480016,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+514,514,1056,CLINICA CENTRAL FUNDADORES MEDELLIN,Cl. 53 #46-38,Privada,3221125,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+517,517,1059,CLINICA MAR CARIBE SANTA MARTA,Cra. 19a #23-3,Privada,4206465,,,,,, ,0,,-,,0,Magnadela,Santa Marta,False
+519,519,1061,EPS SURA ALTOS DEL PRADO BARRANQUILLA,Cra 50 No 79-17&#8203;9,Pública,3686696,,,,,, ,0,,-,,0,Atlántico,Barranquilla,False
+520,520,1062,ESE HOSPITAL MARCO FIDEL SUAREZ DE BELLO,Calle 44 # 49B - 90,Pública,(4) 4549000,,,,,, ,0,,-,,0,Antioquia,Bello,False
+526,526,1068,SALUD SURA INDUSTRIALES,Cl. 26 # 44-69,Privada,(4) 3506888,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+527,527,1069,ESE HOSPITAL DEPARTAMENTAL UNIVERSITARIO DEL QUINDIO SAN JUAN DE DIOS,Clle 17 Nte,Pública,(6) 7493500,,,,,, ,0,,-,,0,Quindio,Armenia,False
+528,528,1070,HOSPITAL INFANTIL RAFAEL HENAO TORO,Av. Santander #49-30,Pública,(6) 8810023,,,,,, ,0,,-,,0,Caldas,Manizales,False
+531,531,1073,ESE HOSPITAL VENANCIO DIAZ DIAZ,Cl. 77 Sur #46-43,Pública,(4) 2889701,,,,,, ,0,,-,,0,Antioquia,Sabaneta,False
+535,535,1077,CLINICA UNIVERSITARIA BOLIVARIANA,Cra 72A #78b -50,Privada,(4) 4455900,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+536,536,1078,CLINICA DE LA POLICIA,"Carrera 43A, Cl. 48c Sur #45",Privada,(4) 3396739,,,,,, ,0,,-,,0,Antioquia,Envigado,False
+538,538,1080,CLUB DE LEONES CARCELEN,,Privada,,,,,,,Red Occidente,0,,-,,0,Ecuador,Quito,False
+540,540,1082,CLINICA VICTORIANA,Cra. 49 #58-19,Privada,3228064,,,,,, ,3,,-,,0,Antioquia,Medellin,False
+541,541,1083,ESE HOSPITAL LA MERCED,Cl. 49 #36-29,Pública,8411182,,,,,, ,3,,-,,0,Antioquia,CIUDAD BOLIVAR,False
+542,542,1084,HOSPITAL UNIVERSITARIO SAN VICENTE FUNDACION,Calle 64 # 51D - 154,Pública,4441333,,,,,, ,3,,-,,0,Antioquia,Medellin,False
+550,550,1092,CLINICA LA ASUNCION,Cl. 70b # 41 - 94,Privada,(5) 3365900,,,,,, ,0,,-,,0,Atlántico,Barranquilla,False
+551,551,1093,CLINICA LA ASUNCION,Cl. 70b # 41 - 94,Privada,(5) 3365900,,,,,, ,0,,-,,0,Atlántico,Barranquilla,False
+552,552,1094,HOSPITAL DE BARANOA,Clle 19 # 20 - 10,Pública,(5) 3161199,,,,,, ,0,,-,,0,Atlántico,Baranoa,False
+554,554,1096,ESE METROSALUD,Calle 14 # 43B - 09,Pública,(4) 5117505,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+556,556,1098,HOSPITAL CON ALMA PABLO TOBON URIBE,Cl 78b #69-240,Pública,4459000,,,,,, ,3,,-,,0,Antioquia,Medellin,False
+560,560,1102,ESE HOSPITAL PADRE CLEMENTE GIRALDO,CL 21 # 25-02,Pública,8320742,,,,,, ,2,,-,,0,Antioquia,SAN ROQUE,False
+561,561,1103,UUBC REINA CATALINA,Carrera 47 No.80-266,Privada,3784013,,,,,, ,2,,-,,0,Atlántico,Barranquilla,False
+567,567,1109,CLINICA PORTOAZUL,Km 2 Vía Puerto Colombia,Privada,,,,,,, ,0,,-,,0,Atlántico,Barranquilla,False
+568,568,1110,UBBC SOLEDAD,, ,,,,,,, ,0,,-,,0,Atlántico,Soledad,False
+569,569,1111,CLINICA ANASHIWAYA,Calle 15 # 82,Privada,(5) 7282669,,,,,, ,0,,-,,0,La Guajira,Riohacha,False
+570,570,1112,ANASHIWAYA IPSI RIOHACHA,Cl. 15 #82,Privada,7282669,,,,,, ,0,,-,,0,La Guajira,Riohacha,False
+571,571,1113,ESE HOSPITAL DE LA CEJA,Calle 17 # 19 - 55,Pública,(4) 5531444,,,,,, ,0,,-,,0,Antioquia,La Ceja,False
+577,577,1119,SOCIEDAD CLINICA EMCOSALUD,CALLE 5 6 73,Privada, 8336540,,,,,, ,0,,-,,0,Huila,Neiva,False
+578,578,1120,CENTRO ESPECIALIZADO SUBA,,Privada,,,,,,,Red Sur,1,,-,,0,Bogota,Bogota,False
+581,581,1123,HOSPITAL DEPARTAMENTAL DEL META,Barranca de Upía,Pública,,,,,,, ,1,,-,,0,Meta,Baranoa,False
+582,582,1124,HOSPITAL UNIVERSITARIO CARI,,Privada,,,,,,,Red Sur,4,,-,,0,Atlántico,Barranquilla,False
+583,583,1126,HOSPITAL UNIVERSITARIO HERNANDO MONCALEANO PERDOMO ESE,CALLE 9 NO 15 25,Pública,311-2648666,,,,,, ,0,,-,,0,Huila,Neiva,False
+586,586,1129,CLINICA CENTRAL FUNDADORES BOGOTA,Cra. 36 # 25 C 15,Privada,(1) 7450966,,,,,, ,0,,-,,0,Cundinamarca,Bogota,False
+591,591,1134,CLINICA CENTRAL DEL QUINDIO,Carrera 13 1N 35,Privada,(6) 7378160,,,,,, ,0,,-,,0,Quindio,Armenia,False
+593,593,1136,CLINICA MEDICOS SEDE ALTA COMPLEJIDAD DEL CARIBE,El Esquinazo Paisa,Privada,5847612,,,,,, ,0,,-,,0,Cesar,Valledupar,False
+596,596,1139,CLINICA MURILLO,CALLE 45 # 20 -77,Privada,3143710500,,,,,, ,0,,-,,0,Atlántico,Barranquilla,False
+598,598,1141,CLINICA EL PRADO BARRANQUILLA,Cl. 59 #50-10,Privada,(5) 3678900,,,,,, ,0,,-,,0,Atlántico,Barranquilla,False
+599,599,1142,CENTRO HOSPITALARIO BARRANCOMINAS,, ,,,,,,, ,0,,-,,0,Guainia,Barrancominas ,False
+600,600,1143,CLINICA ALTOS DEL PRADO,Carrera 50 #79-154 Al Norte De Barranquilla,Privada,,,,,,, ,0,,-,,0,Atlántico,Barranquilla,False
+602,602,1145,E.S.E HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE,Cra. 14 ##23-42,Pública,(5) 4365007,,,,,, ,0,,-,,0,Magdalena,Santa Marta,False
+604,604,1147,ESE HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE,Cra 14 # 23 - 42,Pública,(5) 4365007,,,,,, ,0,,-,,0,Magdalena,Santa Marta,False
+605,605,1148,CLINICA LA MERCED IPS DE BARRANQUILLA,Calle 60 # 38 –29,Privada,,,,,,, ,0,,-,,0,Atlántico,Barranquilla,False
+608,608,1151,CLINICA LA TRINIDAD LTDA LORICA,CALLE 2 #15 - 72 LORICA CORDOBA,Privada,3218271992,,,,,, ,0,,-,,0,Cordoba,Lorica,False
+609,609,1152,HOSPITAL BOCAGRANDE DE CARTAGENA,, ,,,,,,, ,0,,-,,0,Bolivar,Cartagena,False
+610,610,1153,CLINICA REINA CATALINA DE BARRANQUILLA,,Privada,,,,,,, ,3,,-,,0,Atlántico,Barranquilla,False
+611,611,1154,CLINICA AVIDANTI IBAGUE,Av. 19 #103 - 15,Privada,(8) 2756030,,,,,, ,0,,-,,0,Tolima,Ibague,False
+616,616,1159,CLINICA LA VIDA IPS,"CALLE 110 # 4 - 30, Atlantico",Privada,315 7376168,,,,,, ,0,,-,,0,Atlántico,Barranquilla,False
+617,617,1160,E.S.E HOSPITAL REGIONAL DE SOGAMOSO," Cl 8 ##11a - 43, Sogamoso, Boyacá",Pública,(8) 7702201,,,,,, ,0,,-,,0,Boyaca,Sogamoso,False
+618,618,1161,HOSPITAL DEPARTAMENTAL DE GRANADA,,Pública,6587800,,,,,, ,0,,-,,0,Meta,Granada,False
+621,621,1164,FUNDACION UNIVERSITARIA COMFAMILIAR RISARALDA,"Carrera 5 21-30, Pereira",Privada,(6) 3172400,,,,,, ,0,,-,,0,Risaralda,Pereira,False
+622,622,1165,ESE HOSPITAL JOSE CAYETANO VASQUEZ,"Cra 5 # 26-02, Puerto Boyaca",Pública,7386121,,,,,, ,0,,-,,0,Boyaca,Puerto Boyaca,False
+624,624,1167,CLINICA DEL CASANARE,,Privada,,,,,,,Red Sur,4,,-,,0,Casanare,Yopal,False
+625,625,1168,CLINICA DEL CASANARE,,Privada,,,,,,,Red Sur,4,,-,,0,Casanare,Yopal,False
+627,627,1170,E.S.E HOSPITAL LOCAL DE PUERTO ASIS,KR 29 # 10 - 10 CAMILO TORRES,Pública,4229148,,,,,, ,0,,-,,0,Putumayo,Puerto Asis,False
+628,628,1171,ESE HOSPITAL REGIONAL DE MIRAFLORES,CALLE 3 # 11 - 60, ,0387330440,,,,,, ,0,,-,,0,Boyaca,Miraflores,False
+631,631,1174,CLINICA MEDICENTER FICUBO,CRA 23 # 12 - 43 ,Privada,6333130,,,,,, ,0,,-,,0,Casanare,Yopal,False
+636,636,1179,UNIDAD DE CRONICOS DE CHAPINERO,, ,,,,,,, ,0,,-,,0,Bogota,Bogota,False
+639,639,1182,GYOMEDICAL RIOHACHA,Cr12 Con Cl 11 A Esq / Riohacha,Privada,7287157,,,,,, ,0,,-,,0,La Guajira,Riohacha,False
+641,641,1184,ASOCIACION DE CABILDOS Y/O AUTORIDADES TRADICIONALES DE LA GUAJIRA,"Carrera 15 No. 19 - 56, Maicao - La Guajira",Privada,310 621 9006,,,,,, ,0,,-,,0,La Guajira,Maicao,False
+642,642,1185,PROMEDAN IPS S.A,"Cra 48C ##10 Sur10, Medellín, Antioquia",Privada,(4) 4441117,,,,,, ,0,,-,,0,Antioquia,Medellin,False
+647,647,1190,E.S.E HOSPITAL HILARIO LUGO SASAIMA,Cra. 4 #8 75,Pública,(1) 8468345,,,,,, ,0,,-,,0,Cundinamarca,SASAIMA,False
+650,650,1193,NUEVA CLINICA EL BARZAL,Cra. 37 35 17,Privada,3114574959,,,,,, ,2,,-,,0,Meta,Villavicencio,False
+652,652,1195,SOCIEDAD MEDICA CLINICA MAICAO,CALLE 16 6 41,Privada,7256500,,,,,, ,2,,-,,0,La Guajira,Maicao,False
+655,655,1198,HOSPITAL REGIONAL DE DUITAMA,, ,,,,,,, ,0,,-,,0,Boyaca,Duitama,False
+656,656,1199,IPS CAFAM FACATATIVA,CL 4 No. 2-60,Privada,8424042,,,,,, ,0,,-,,0,Cundinamarca,Facatativa,False
+657,657,1200,ESE HOSPITAL REGIONAL DEL VALLE DE TENZA,Vía Sutatenza Km 1,Pública,75403888,,,,,, ,0,,-,,0,Boyaca,Guateque,False
+662,662,1205,CLINICA BOYACA,TRANSVERSAL 29 No9C 41,Privada,7604757,,,,,, ,2,,-,,0,Boyaca,Duitama,False
+663,663,1206,CAS KENNEDY CAFAM,CRA 78 K 37A 53,Privada,3077011,,,,,, ,0,,-,,0,Bogota,Bogota,False
+666,666,1209,CRITICAL CARE GROUP IPS,Cra 05 # 05 - 32,Privada,3133073419,,,,,, ,0,,-,,0,Tolima,El Espinal,False
+669,669,1212,SOCIEDAD MEDICA ALCALA,Cra 19 # 135 - 24,Privada,,,,,,, ,0,,-,,0,Bogota,Bogota,False
+671,671,1214,CORPORACION CLINICA CLINICA PRIMAVERA,,Privada,,,,,,, ,2,,-,,0,Meta,Villavicencio,False
+674,674,1217,CLINICA ERASMO,,Privada,,,,,,, ,3,,-,,0,Cesar,Valledupar,False
+676,676,1219,HOSPITAL CENTRO PLANADAS,, ,,,,,,, ,0,,-,,0,Tolima,PLANADAS,False
+678,678,1221,HOSPITAL RAMON MARIA ARANA,CLL 5 7 27,Pública,,,,,,, ,1,,-,,0,Tolima,Murillo,False
+679,679,1222,HOSPITAL CARE & HEALT DE TOCANCIPA,,Pública,,,,,,, ,0,,-,,0,Cundinamarca,Tocancipa,False
+682,682,1225,CLINICA ESPECIALIZADA LA CONCEPCION,Calle 38 N° 52-249,Privada,,,,,,, ,0,,-,,0,Sucre,Sincelejo,False
+684,684,1227,GRUPO CISNE SAS CENTRO DE INVESTIGACIONES DEL SISTEMA NERVIOSO,"Cl. 173a #65-85, Bogotá",Privada,3162702581,,,,,, ,0,,-,,0,Bogota,Bogota,False
+685,685,1228,CLINIA ASOTRAUMA,CRA 4 H BIS 34-01,Privada,608-5153000,,,,,, ,3,,-,,0,Tolima,Ibague,False
+688,688,1231,UNIDAD MEDICA Y DIAGNOSTICO IPS,Cra 83 # 22b - 203,Privada,3126571465,,,,,, ,0,,-,,0,Bolivar,Cartagena,False
+690,690,1233,CLINICA MEDICOS VALLEDUPAR,CALLE 16B 11-33 BARRIO LOPERENA,Privada,,,,,,, ,3,,-,,0,Cesar,Valledupar,False
+692,692,1235,ESE FABIO JARAMILLO LONDOÑO,CRA 12 9B  06,Pública,8 4345673,,,,,, ,1,,-,,0,Caqueta,Florencia,False
